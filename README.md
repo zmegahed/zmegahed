@@ -21,7 +21,6 @@ Version      │ Git, GitHub
 ### 🌱 Areas of Interest
 - UI/UX Design and Prototyping
 - Web Accessibility
-- Healthcare Technology
 - Machine Learning
 - Science Current Events
 
