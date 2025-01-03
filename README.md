@@ -39,7 +39,7 @@ Version      │ Git, GitHub
 
 ### 📫 Connect With Me
 - Email: zeyadfouad34@gmail.com
-- LinkedIn: [Zayad Megahed](https://www.linkedin.com/in/zmegahed)
+- LinkedIn: [Zayad Megahed](https://www.linkedin.com/in/zeyad-megahed)
 - Phone: 571-331-4969
 - Location: Ashburn, VA
 
