@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Zayad Megahed
 
 ## About Me
-I'm a passionate UI/UX Web Developer and Information Technology professional based in Ashburn, VA. Recently graduated from George Mason University with a Bachelor's in Information Technology (Cum Laude),  I combine clean code with creative design to build modern web solutions.
+I'm a passionate UI/UX Web Developer and Information Technology professional based in the DMV. Recently graduated from George Mason University with a Bachelor's in Information Technology (Cum Laude),  I combine clean code with creative design to build modern web solutions.
 
 ### 🎓 Education
 - **George Mason University** (May 2024)
