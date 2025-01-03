@@ -46,6 +46,6 @@ Version      │ Git, GitHub
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zmegahed&show_icons=true&theme=radical)
 
 ---
